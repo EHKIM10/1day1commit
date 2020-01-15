@@ -8,9 +8,20 @@
         android:layout_height="wrap_content"
         android:text="안녕하세요"
         android:textSize="30dp"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="30dp"
+        android:layout_margin="30dp"
         android:background="@color/colorAccent"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:background="@color/colorAccent"
+        android:text="안드로이드"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
         />
 
 </LinearLayout>
